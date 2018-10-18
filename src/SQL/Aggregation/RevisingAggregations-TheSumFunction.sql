@@ -1,0 +1,2 @@
+SELECT SUM(population) FROM city
+WHERE District='California';
