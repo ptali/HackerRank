@@ -1,17 +1,19 @@
-#![Example screenshot](img/HackerRank.png)
+![Example screenshot](img/HackerRank.png)
+
 Solutions to HackerRank problems
+
 ## SQL
 SQL solutions are coded using MySQL
  >Subdomains:
-* [Basic Select](#basic select)
+* [Basic Select](#basic-select)
 
-* [Advanced Select](#advanced select)
+* [Advanced Select](#advanced-select)
 
 * [Aggregation](#aggregation)
 
-* [Basic Join](#basic join)
+* [Basic Join](#basic-join)
 
-* [Alternative Queries](#alternative queries)
+* [Alternative Queries](#alternative-queries)
 
 
 
